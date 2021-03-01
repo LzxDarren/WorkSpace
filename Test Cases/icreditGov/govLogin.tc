@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>govLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5d93414a-f841-4b57-b8bc-c03957a0dbfa</testCaseGuid>
+   <variable>
+      <defaultValue>'gov03'</defaultValue>
+      <description></description>
+      <id>54e5f978-4035-4cbc-9caa-0d75d59d6a83</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>954d1f37-6c69-43cd-bcd2-854fe42494b0</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

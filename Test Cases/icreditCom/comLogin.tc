@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>comLogin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>2ac94d5d-c3cb-46f4-9401-4a2300e2d59e</testCaseGuid>
+   <variable>
+      <defaultValue>'18318851404'</defaultValue>
+      <description></description>
+      <id>7fff157e-5118-4d6e-827f-7c6afc9fb320</id>
+      <masked>false</masked>
+      <name>account</name>
+   </variable>
+   <variable>
+      <defaultValue>'123456'</defaultValue>
+      <description></description>
+      <id>e9906e30-bd56-4a9b-8787-6dfae16c8657</id>
+      <masked>false</masked>
+      <name>password</name>
+   </variable>
+</TestCaseEntity>

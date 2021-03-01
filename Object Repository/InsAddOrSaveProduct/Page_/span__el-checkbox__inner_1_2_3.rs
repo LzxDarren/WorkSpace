@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span__el-checkbox__inner_1_2_3</name>
+   <tag></tag>
+   <elementGuidId>092b858f-2e34-4e72-800f-deda1bc73efa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/form/div[7]/div/div[2]/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-checkbox__inner</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;hy&quot;]/div[@class=&quot;hy-main&quot;]/div[@class=&quot;main-content&quot;]/div[@class=&quot;happy-scroll&quot;]/div[@class=&quot;happy-scroll-container&quot;]/div[@class=&quot;happy-scroll-content&quot;]/div[@class=&quot;hy-content&quot;]/div[@class=&quot;common-form&quot;]/form[@class=&quot;el-form&quot;]/div[@class=&quot;el-form-item interest is-success el-form-item--medium&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;el-form-item formI el-form-item--medium&quot;]/div[@class=&quot;el-form-item__content&quot;]/label[@class=&quot;el-checkbox&quot;]/span[@class=&quot;el-checkbox__input&quot;]/span[@class=&quot;el-checkbox__inner&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/div[2]/div[2]/div/div/div/div/div[2]/form/div[7]/div/div[2]/div/label/span/span</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/label/span/span</value>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>GovAudit</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bbc48815-bc60-463e-940b-f631f324d39a</testCaseGuid>
+   <variable>
+      <defaultValue>'超人'</defaultValue>
+      <description></description>
+      <id>352922e9-ebb6-41de-94db-6458aa4f50d0</id>
+      <masked>false</masked>
+      <name>bankName</name>
+   </variable>
+   <variable>
+      <defaultValue>'听说'</defaultValue>
+      <description></description>
+      <id>ef4b3b1f-34d0-4ac2-8d26-c11923154648</id>
+      <masked>false</masked>
+      <name>companyName</name>
+   </variable>
+   <variable>
+      <defaultValue>'审核通过'</defaultValue>
+      <description></description>
+      <id>2f13e13f-e655-4e46-9f76-ea9e4954dd5a</id>
+      <masked>false</masked>
+      <name>auditType</name>
+   </variable>
+   <variable>
+      <defaultValue>'1500'</defaultValue>
+      <description></description>
+      <id>434318b5-c0da-450e-a3e7-39e234a9299a</id>
+      <masked>false</masked>
+      <name>agreeAmount</name>
+   </variable>
+</TestCaseEntity>
